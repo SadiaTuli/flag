@@ -1,0 +1,15 @@
+.relative{
+    position:relative;
+    height:300px;
+    width:500px;
+    background-color:green;
+}
+.absolute{
+    width:200px;
+    height:200px;
+    position:absolute;
+    border-radius:100%;
+    margin:50px 150px;
+    background-color:red;
+    background-position:center;
+}
